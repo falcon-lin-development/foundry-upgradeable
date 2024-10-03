@@ -1,3 +1,17 @@
+1) Parameterize / Not Readlly
+-> can't add new stoarge
+-> can't add new storage type
+
+2) Social migration
+
+3) The Proxies
+-> Transparent Proxy Pattern
+-> Universal Upgradeable Proxies ( UUPs )
+-> Diamond Proxy
+
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
